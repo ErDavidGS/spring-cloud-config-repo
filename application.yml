@@ -1,0 +1,4 @@
+# Valores compartidos por todos los microservicios.
+# El archivo <nombre-del-servicio>.yml prevalece en propiedades coincidentes.
+demo:
+  version: "1.0"

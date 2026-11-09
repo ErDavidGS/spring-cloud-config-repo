@@ -2,7 +2,7 @@ server:
   address: 127.0.0.1
   port: 8081
 demo:
-  mensaje: "CAMBIO DESDE GITHUB SIN REINICIAR JAVA"
+  mensaje: "DEMOSTRACION-COMPLETA"
   version: "1.0"
 management:
   endpoints:

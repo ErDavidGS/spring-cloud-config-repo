@@ -1,2 +1,22 @@
+# Archivos generados; no subir a GitHub
+**/target/
+**/.mvn/wrapper/maven-wrapper.jar
+.tools/
+.run/
+logs/
 *.log
+*.pid
+*.class
+*.jar
+*.zip
+*.rar
+*.7z
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.idea/
+.vscode/
 .DS_Store

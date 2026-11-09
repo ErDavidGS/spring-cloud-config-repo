@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: pedidos
+  config:
+    import: "configserver:http://localhost:8888"
